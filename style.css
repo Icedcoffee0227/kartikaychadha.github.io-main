@@ -1,0 +1,13 @@
+/* Custom McGill link style */
+.mcgill-link {
+  color: aqua; 
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+/* Hover effect */
+.mcgill-link:hover {
+  color: #00bcd4; /* darker aqua */
+  text-decoration: underline;
+}
